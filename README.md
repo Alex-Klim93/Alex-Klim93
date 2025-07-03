@@ -26,7 +26,7 @@
 <table style="width: 100%; border-collapse: separate; border-spacing: 15px;">
   <tr>
     <td style="background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%); border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.08);" width="33%">
-      <div align="center">
+      <div align="center" style="border-radius: 12px">
         <img src="https://via.placeholder.com/250x150/4CAF50/ffffff?text=Лендинг" style="border-radius: 8px;" width="100%"><br>
         <h3 style="color: #1565c0; margin: 15px 0 10px;">Лендинг-пейдж</h3>
         <p style="color: #455a64; margin-bottom: 15px;">Вёрстка одностраничного сайта с анимациями</p>
