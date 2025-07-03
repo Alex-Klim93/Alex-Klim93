@@ -1,7 +1,7 @@
 # <span style="color: #2c3e50;">🎨 Профессиональная вёрстка сайтов</span>
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/3498db/ffffff?text=Pixel-Perfect+Вёрстка+Сайтов" style="border-radius: 12px;" width="100%">
+  <img src="[https://via.placeholder.com/800x400/3498db/ffffff?text=Pixel-Perfect+Вёрстка+Сайтов](https://cdn.freelance.ru/images/att/2040193_900_600.png)" style="border-radius: 12px;" width="100%">
   
   <div style="margin: 20px 0;">
     <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"/>
