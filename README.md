@@ -1,205 +1,187 @@
-# 🚀 Frontend Development & Web Design 
+# 🚀 Веб-разработка и вёрстка сайтов на Tilda 
 
-![Banner](https://via.placeholder.com/1920x600/4a6cf7/ffffff?text=Frontend+Development+%26+Web+Design)
+<div align="center">
+  <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML5" width="60"/>
+  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" width="60"/>
+  <img src="https://img.icons8.com/ios-filled/100/000000/tilda.png" alt="Tilda" width="60"/>
+</div>
 
-## 🌟 Обо мне
-Профессиональный фронтенд-разработчик с фокусом на создание современных, адаптивных веб-интерфейсов. Специализация: чистая семантическая вёрстка, сложные интерактивные элементы и оптимизация производительности.
+Профессиональная вёрстка и разработка сайтов на платформе Tilda с индивидуальным подходом к каждому проекту.
 
 ---
 
-## 💰 Прайс-лист
+## 💎 Наши услуги
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 25px; margin: 40px 0;">
+<div class="services-grid" markdown="1">
 
-<!-- Карточка 1 -->
-<div style="background: white; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.08); border: 1px solid #eee;">
-<img src="https://via.placeholder.com/600x400/4a6cf7/ffffff?text=Landing+Page" style="width: 100%; height: 200px; object-fit: cover;">
-<div style="padding: 20px;">
-<h3 style="margin-top: 0; color: #2c3e50;">Лендинг</h3>
-<p>Одностраничный сайт с адаптивным дизайном</p>
-<ul style="padding-left: 20px; margin: 15px 0;">
-<li>Анимации и эффекты</li>
-<li>SEO-оптимизация</li>
-<li>Формы обратной связи</li>
-</ul>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-<span style="font-size: 22px; font-weight: bold; color: #4a6cf7;">15 000 - 25 000 ₽</span>
-<span style="background: #f0f8ff; padding: 5px 10px; border-radius: 12px; font-size: 14px;">3-5 дней</span>
-</div>
-</div>
-</div>
-
-<!-- Карточка 2 -->
-<div style="background: white; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.08); border: 1px solid #eee;">
-<img src="https://via.placeholder.com/600x400/4a6cf7/ffffff?text=Tilda+Site" style="width: 100%; height: 200px; object-fit: cover;">
-<div style="padding: 20px;">
-<h3 style="margin-top: 0; color: #2c3e50;">Лендинг на Tilda</h3>
-<p>Готовое решение с кастомизацией блоков</p>
-<ul style="padding-left: 20px; margin: 15px 0;">
-<li>Zero-блоки под ключ</li>
-<li>Мобильная адаптация</li>
-<li>Подключение аналитики</li>
-</ul>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-<span style="font-size: 22px; font-weight: bold; color: #4a6cf7;">10 000 - 18 000 ₽</span>
-<span style="background: #f0f8ff; padding: 5px 10px; border-radius: 12px; font-size: 14px;">2-4 дня</span>
-</div>
-</div>
-</div>
-
-<!-- Карточка 3 -->
-<div style="background: white; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.08); border: 1px solid #eee;">
-<img src="https://via.placeholder.com/600x400/4a6cf7/ffffff?text=Corporate+Site" style="width: 100%; height: 200px; object-fit: cover;">
-<div style="padding: 20px;">
-<h3 style="margin-top: 0; color: #2c3e50;">Корпоративный сайт</h3>
-<p>Многостраничный сайт с административной панелью</p>
-<ul style="padding-left: 20px; margin: 15px 0;">
-<li>До 10 страниц</li>
-<li>CMS-интеграция</li>
-<li>Мультиязычность</li>
-</ul>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-<span style="font-size: 22px; font-weight: bold; color: #4a6cf7;">30 000 - 50 000 ₽</span>
-<span style="background: #f0f8ff; padding: 5px 10px; border-radius: 12px; font-size: 14px;">7-14 дней</span>
-</div>
-</div>
-</div>
-
-<!-- Карточка 4 -->
-<div style="background: white; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.08); border: 1px solid #eee;">
-<img src="https://via.placeholder.com/600x400/4a6cf7/ffffff?text=UI+Elements" style="width: 100%; height: 200px; object-fit: cover;">
-<div style="padding: 20px;">
-<h3 style="margin-top: 0; color: #2c3e50;">Интерактивные элементы</h3>
-<p>Нестандартные UI-компоненты</p>
-<ul style="padding-left: 20px; margin: 15px 0;">
-<li>Параллакс-эффекты</li>
-<li>3D-преобразования</li>
-<li>Кастомные анимации</li>
-</ul>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-<span style="font-size: 22px; font-weight: bold; color: #4a6cf7;">3 000 - 8 000 ₽</span>
-<span style="background: #f0f8ff; padding: 5px 10px; border-radius: 12px; font-size: 14px;">1-3 дня</span>
-</div>
-</div>
-</div>
+- ✔️ Разработка сайтов на Tilda "под ключ"
+- ✔️ Адаптивная и кросс-браузерная вёрстка
+- ✔️ Кастомизация Zero-блоков
+- ✔️ Создание сложных анимаций
+- ✔️ Оптимизация скорости загрузки
+- ✔️ SEO-базовая настройка
+- ✔️ Интеграция с CRM и сервисами
+- ✔️ Обучение работе с Tilda
 
 </div>
-
-<p style="text-align: center; font-style: italic; color: #666; margin-top: -20px;">* Точная стоимость рассчитывается после обсуждения проекта</p>
 
 ---
 
-## 🛠 Услуги
+## 💵 Прайс-лист
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 25px; margin: 40px 0;">
+<div class="price-cards" markdown="1">
 
-<div style="background: white; border-radius: 16px; padding: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.08); border: 1px solid #eee;">
-<h3 style="margin-top: 0; color: #2c3e50;">💻 Вёрстка сайтов</h3>
-<ul style="padding-left: 20px;">
-<li>Pixel-perfect по макетам Figma/PS</li>
-<li>Полная адаптивность</li>
-<li>Оптимизация скорости</li>
-<li>Анимации интерфейса</li>
-</ul>
+<div class="price-card" markdown="1">
+![Лендинг](https://via.placeholder.com/300x200/4CAF50/FFFFFF?text=Лендинг)
+### Лендинг
+**От 15 000 ₽**  
+⏳ Срок: 3-5 дней  
+Идеальное решение для презентации продукта или услуги с высокой конверсией.
 </div>
 
-<div style="background: white; border-radius: 16px; padding: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.08); border: 1px solid #eee;">
-<h3 style="margin-top: 0; color: #2c3e50;">🎨 Tilda Development</h3>
-<ul style="padding-left: 20px;">
-<li>Кастомизация Zero-блоков</li>
-<li>Сложные анимации</li>
-<li>Интеграция с CRM</li>
-<li>SEO-оптимизация</li>
-</ul>
+<div class="price-card" markdown="1">
+![Корпоративный сайт](https://via.placeholder.com/300x200/2196F3/FFFFFF?text=Корпоративный)
+### Корпоративный сайт
+**От 30 000 ₽**  
+⏳ Срок: 7-14 дней  
+Профессиональный имидж компании с удобной структурой и функционалом.
 </div>
 
-<div style="background: white; border-radius: 16px; padding: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.08); border: 1px solid #eee;">
-<h3 style="margin-top: 0; color: #2c3e50;">✨ Интерактивные элементы</h3>
-<ul style="padding-left: 20px;">
-<li>Параллакс-скролл</li>
-<li>3D-преобразования</li>
-<li>Кастомные галереи</li>
-<li>Нестандартные UI</li>
-</ul>
+<div class="price-card" markdown="1">
+![Интернет-магазин](https://via.placeholder.com/300x200/FF5722/FFFFFF?text=Магазин)
+### Интернет-магазин
+**От 50 000 ₽**  
+⏳ Срок: 14-21 день  
+Полнофункциональный магазин с корзиной, оплатой и личным кабинетом.
 </div>
 
 </div>
 
 ---
 
-## 🏆 Портфолио
+## 🏆 Примеры работ
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 30px; margin: 40px 0;">
+<div class="portfolio-grid" markdown="1">
 
-<div style="background: white; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.08); border: 1px solid #eee;">
-<img src="https://via.placeholder.com/800x500/4a6cf7/ffffff?text=FinTech+Dashboard" style="width: 100%; height: auto; display: block; border-bottom: 1px solid #eee;">
-
-<div style="padding: 25px;">
-<h3 style="margin-top: 0;">Финансовый дашборд</h3>
-
-**Техническое задание:**
-<ul style="padding-left: 20px;">
-<li>Разработать интерактивную панель управления</li>
-<li>Реализовать динамические графики</li>
-<li>Адаптив под мобильные устройства</li>
-</ul>
-
-**Реализация:**
-<ul style="padding-left: 20px;">
-<li>React + TypeScript</li>
-<li>Chart.js для визуализации</li>
-<li>Оптимизация производительности</li>
-</ul>
-
-<div style="display: flex; gap: 15px; margin-top: 20px;">
-<a href="https://github.com/yourusername/fintech-dashboard" style="background: #4a6cf7; color: white; padding: 8px 15px; border-radius: 6px; text-decoration: none;">Исходный код</a>
-<a href="https://yourusername.github.io/fintech-dashboard" style="background: #2c3e50; color: white; padding: 8px 15px; border-radius: 6px; text-decoration: none;">Демо</a>
-</div>
-</div>
+<div class="portfolio-card" markdown="1">
+[![Проект 1](https://via.placeholder.com/300x200/9C27B0/FFFFFF?text=Салон+красоты)](https://example.com)
+### Салон красоты "Элегант"
+Лендинг для салона премиум-класса с онлайн-записью и галереей работ.
 </div>
 
-<!-- Остальные проекты аналогично -->
+<div class="portfolio-card" markdown="1">
+[![Проект 2](https://via.placeholder.com/300x200/3F51B5/FFFFFF?text=Строительная+компания)](https://example.com)
+### Строительная компания "Профит"
+Корпоративный сайт с каталогом услуг и калькулятором стоимости.
+</div>
+
+<div class="portfolio-card" markdown="1">
+[![Проект 3](https://via.placeholder.com/300x200/009688/FFFFFF?text=Кофейня)](https://example.com)
+### Кофейня "Aroma"
+Интернет-магазин с возможностью онлайн-заказа и доставки.
+</div>
 
 </div>
 
 ---
 
-## ✉️ Контакты
+## 📞 Контакты
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; margin: 40px 0;">
+<div class="contacts" markdown="1">
 
-<div style="background: #f8f9fa; border-radius: 12px; padding: 20px; text-align: center;">
-<h3 style="margin-top: 0;">Email</h3>
-<p>your@email.com</p>
-</div>
+📧 **Email**: [dev@example.com](mailto:dev@example.com)  
+📱 **Telegram**: [@tilda_dev](https://t.me/tilda_dev)  
+💼 **Behance**: [behance.net/tilda_projects](https://behance.net/tilda_projects)  
 
-<div style="background: #f8f9fa; border-radius: 12px; padding: 20px; text-align: center;">
-<h3 style="margin-top: 0;">Telegram</h3>
-<p>@yournickname</p>
-</div>
-
-<div style="background: #f8f9fa; border-radius: 12px; padding: 20px; text-align: center;">
-<h3 style="margin-top: 0;">GitHub</h3>
-<p><a href="https://github.com/yourusername">github.com/yourusername</a></p>
-</div>
+📍 **Режим работы**: Пн-Пт, 10:00-18:00  
 
 </div>
 
 <style>
-  /* Адаптивность */
-  @media screen and (max-width: 768px) {
-    div[style*="grid-template-columns"] {
-      grid-template-columns: 1fr !important;
-    }
+/* Анимации и стили */
+.price-cards, .portfolio-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin: 30px 0;
+}
+
+.price-card, .portfolio-card {
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  width: 300px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.price-card:hover, .portfolio-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+}
+
+.price-card img, .portfolio-card img {
+  border-radius: 8px;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.services-grid {
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+.services-grid ul {
+  columns: 2;
+  list-style-type: none;
+  padding: 0;
+}
+
+.services-grid li {
+  padding: 8px 0;
+  position: relative;
+  padding-left: 25px;
+}
+
+.services-grid li:before {
+  content: "→";
+  position: absolute;
+  left: 0;
+  color: #4CAF50;
+}
+
+.contacts {
+  background: #4CAF50;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.price-card, .portfolio-card {
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+.price-card:nth-child(1) { animation-delay: 0.1s; }
+.price-card:nth-child(2) { animation-delay: 0.3s; }
+.price-card:nth-child(3) { animation-delay: 0.5s; }
+
+@media (max-width: 768px) {
+  .price-cards, .portfolio-grid {
+    flex-direction: column;
+    align-items: center;
   }
   
-  /* Анимации */
-  div[style*="box-shadow"] {
-    transition: all 0.3s ease;
+  .services-grid ul {
+    columns: 1;
   }
-  
-  div[style*="box-shadow"]:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 15px 35px rgba(0,0,0,0.12) !important;
-  }
+}
 </style>
