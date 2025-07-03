@@ -1,6 +1,6 @@
 # <span style="color: #2c3e50;">🎨 Профессиональная вёрстка сайтов</span>
 
-<div align="center">
+<span align="center">
   <img src="https://cdn.freelance.ru/images/att/2040193_900_600.png" style="border-radius: 12px;" width="100%">
   
   <div style="margin: 20px 0;">
@@ -10,7 +10,7 @@
     <img src="https://img.icons8.com/color/48/000000/sass.png" title="Sass"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
   </div>
-</div>
+</span>
 
 <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); padding: 25px; border-radius: 12px; margin: 20px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
   <p style="color: #2c3e50; font-size: 18px; text-align: center; margin: 0;">
