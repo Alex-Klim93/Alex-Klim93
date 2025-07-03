@@ -98,7 +98,6 @@
 </table>
 
 ### Основные технологии вёрстки
-```html
 <div class="skills">
   <span>HTML5</span> • <span>CSS3</span> • <span>Sass</span> • <span>BEM</span>
   <span>JavaScript</span> • <span>GSAP</span> • <span>Git</span>
