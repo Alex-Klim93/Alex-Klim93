@@ -37,6 +37,13 @@
 ✅ Кроссбраузерность
 ⏱ Срок: 3-5 дней
 
+
+
+
+
+
+```
+
 </td>
 <td width="33%" align="center">
 
@@ -45,11 +52,13 @@
 https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif
 Цена:от 15 000 ₽
 
+```yaml
 ✅ Mobile First подход
 ✅ Все разрешения
 ✅ Плавные breakpoints
 ✅ Тестирование на устройствах
 ⏱ Срок: 4-7 дней
+```
 
 </td>
 <td width="33%" align="center">
@@ -59,11 +68,13 @@ https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif
 https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif
 Цена:от 20 000 ₽
 
+```yaml
 ✅ CSS/JS анимации
 ✅ Параллакс эффекты
 ✅ Микроинтеракции
 ✅ Плавные переходы
 ⏱ Срок: 5-10 дней
+```
 
 </td>
 </tr>
@@ -89,6 +100,7 @@ https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif
 
 🟢 Базовый
 
+```diff
 + Лендинг-пейдж
 + Адаптивная верстка
 + Формы обратной связи
@@ -97,6 +109,7 @@ https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif
 - Сложные интеракции
 - API интеграции
 - Админ-панель
+```
 
 💵 от 10 000 ₽
 ⏱ 3-5 дней
@@ -107,6 +120,7 @@ https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif
 
 🔵 Стандарт
 
+```diff
 + Многостраничный сайт
 + Сложная навигация
 + Интерактивные элементы
@@ -115,6 +129,7 @@ https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif
 - Платежные системы
 - Личный кабинет
 - WebSocket
+```
 
 💵 от 25 000 ₽
 ⏱ 5-10 дней
@@ -125,6 +140,7 @@ https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif
 
 🟣 Премиум
 
+```diff
 + Интернет-магазин
 + Каталог товаров
 + Корзина покупок
@@ -133,6 +149,7 @@ https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif
 + Личный кабинет
 - Сложная CRM
 - PWA
+```
 
 💵 от 40 000 ₽
 ⏱ 10-15 дней
@@ -143,6 +160,7 @@ https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif
 
 🟡 VIP
 
+```diff
 + SPA приложение
 + React/Vue.js
 + JWT аутентификация
@@ -151,6 +169,7 @@ https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif
 + Unit тесты
 + Админ-панель
 + Сложная CRM
+```
 
 💵 от 60 000 ₽
 ⏱ 15-25 дней
@@ -199,11 +218,13 @@ PWA ❌ ❌ 🟡 🟣
 
 https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&auto=format&fit=crop&q=60
 
+```yaml
 Клиент: IT компания
 Технологии: React, TypeScript, Tailwind
 Срок: 14 дней
 Результат: +40% конверсии
 Рейтинг: ⭐⭐⭐⭐⭐
+```
 
 </td>
 <td width="50%" align="center">
@@ -212,11 +233,13 @@ https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&auto=format&f
 
 https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w-800&auto=format&fit=crop&q=60
 
+```yaml
 Клиент: Эко-маркет
 Технологии: Vue.js, Vuex, SCSS
 Срок: 18 дней
 Результат: 500+ заказов/мес
 Рейтинг: ⭐⭐⭐⭐⭐
+```
 
 </td>
 </tr>
@@ -227,11 +250,13 @@ https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w-800&auto=format&fit=
 
 https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&auto=format&fit=crop&q=60
 
+```yaml
 Клиент: Дизайнер
 Технологии: GSAP, CSS Grid
 Срок: 7 дней
 Результат: 3x заявок
 Рейтинг: ⭐⭐⭐⭐⭐
+```
 
 </td>
 <td width="50%" align="center">
@@ -240,11 +265,13 @@ https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&auto=format&f
 
 https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&auto=format&fit=crop&q=60
 
+```yaml
 Клиент: Логистика
 Технологии: React, Redux, Node.js
 Срок: 21 день
 Результат: 80% автоматизация
 Рейтинг: ⭐⭐⭐⭐⭐
+```
 
 </td>
 </tr>
@@ -302,6 +329,7 @@ https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&border_radius=
 
 https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif
 
+```yaml
 Время: 30-60 минут
 Бесплатно: Да
 Что обсуждаем:
@@ -309,6 +337,7 @@ https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif
   • Сроки
   • Бюджет
   • Тех. требования
+```
 
 </td>
 <td width="25%" align="center">
@@ -317,6 +346,7 @@ https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif
 
 https://media.giphy.com/media/26n6WjS86Dctt1yIE/giphy.gif
 
+```yaml
 Этап: Подготовка
 Срок: 1-2 дня
 Что получаете:
@@ -324,19 +354,7 @@ https://media.giphy.com/media/26n6WjS86Dctt1yIE/giphy.gif
   • Оценка
   • План работ
   • Сроки
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
 
 </td>
 <td width="25%" align="center">
@@ -345,6 +363,7 @@ https://media.giphy.com/media/26n6WjS86Dctt1yIE/giphy.gif
 
 https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif
 
+```yaml
 Этап: Реализация
 Контроль: Daily reports
 Что видите:
@@ -352,6 +371,7 @@ https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif
   • Прогресс
   • Вопросы
   • Правки
+```
 
 </td>
 <td width="25%" align="center">
@@ -360,12 +380,14 @@ https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif
 
 https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif
 
+```yaml
 Этап: Сдача
 Что получаете:
   • Исходный код
   • Документация
   • Инструкции
   • Гарантия
+```
 
 </td>
 </tr>
@@ -389,17 +411,20 @@ https://img.shields.io/badge/Telegram-@frontend__dev-2CA5E0?style=for-the-badge&
 https://img.shields.io/badge/Email-hello%40frontend.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white
 https://img.shields.io/badge/WhatsApp-+7(999)123--45--67-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 
+```yaml
 Режим работы:
   Пн-Пт: 10:00 - 19:00
   Сб: По договоренности
   Вс: Выходной
 Ответ в течение: 1-2 часов
+```
 
 </td>
 <td width="50%" align="center">
 
 📋 Быстрая заявка
 
+```markdown
 ## Для быстрой оценки:
 1. Тип сайта (лендинг, магазин и т.д.)
 2. Количество страниц/экранов
@@ -408,6 +433,7 @@ https://img.shields.io/badge/WhatsApp-+7(999)123--45--67-25D366?style=for-the-ba
 5. Макет (если есть)
 
 Отправьте эти данные в Telegram!
+```
 
 https://img.shields.io/badge/💬_Написать_сейчас-667EEA?style=for-the-badge&logo=telegram&logoColor=white
 
@@ -423,6 +449,7 @@ https://img.shields.io/badge/💬_Написать_сейчас-667EEA?style=for
 
 </div>
 
+```mermaid
 graph LR
     A[Frontend Developer] --> B[HTML5/CSS3]
     A --> C[JavaScript/TypeScript]
@@ -451,6 +478,7 @@ graph LR
     K --> T[Redux/Vuex]
     L --> U[SSR/SSG]
     M --> V[Роутинг]
+```
 
 <br>
 
@@ -465,9 +493,11 @@ graph LR
 
 Схема оплаты:
 
+```diff
 + 30% — предоплата (начало работы)
 + 40% — после утверждения основной верстки
 + 30% — после сдачи проекта
+```
 
 Способы оплаты:
 
@@ -485,6 +515,7 @@ graph LR
 
 Гарантийные обязательства:
 
+```yaml
 Базовые тарифы:
   • Исправление багов: 30 дней
   • Консультации: 14 дней
@@ -495,6 +526,7 @@ graph LR
   • Консультации: 30 дней
   • Экстренная помощь: 14 дней
   • Обновления: 2 бесплатных правки
+```
 
 Что входит в гарантию:
 
@@ -510,10 +542,12 @@ graph LR
 
 Срочные заказы:
 
+```diff
 + 1-2 дня: +50% к стоимости
 + 3-4 дня: +30% к стоимости
 + 5-7 дней: +20% к стоимости
 + 8-10 дней: +10% к стоимости
+```
 
 Что ускоряет работу:
 
@@ -531,6 +565,7 @@ graph LR
 
 Международные проекты:
 
+```yaml
 Принимаю заказы из:
   • США/Канада: 🌎
   • Европа: 🇪🇺
@@ -547,6 +582,7 @@ graph LR
   • Wise: 2-3% комиссия
   • Crypto: USDT, BTC
   • Bank Transfer: SWIFT
+```
 
 </details>
 
@@ -565,14 +601,18 @@ https://img.shields.io/badge/📧_Отправить_запрос-FF6B6B?style=f
 
 ✨ Почему выбирают меня:
 
+```diff
 + 100% выполнение сроков
 + Прозрачное ценообразование
 + Ежедневные отчеты
 + Качественный код
 + Пожизненная консультация
+```
 
 ⭐ Если понравилось портфолио — оставьте звезду на GitHub!
 
 </div>
 
 https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=true
+
+```
