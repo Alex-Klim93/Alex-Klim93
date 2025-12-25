@@ -153,3 +153,378 @@
     Режим работы: Пн-Пт, 10:00-18:00
   </p>
 </div>
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frontend Разработчик - Ваш сайт мечты</title>
+    <!--[if mso]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <style type="text/css">
+        /* Сброс стилей для почтовых клиентов */
+        .ReadMsgBody { width: 100%; }
+        .ExternalClass { width: 100%; }
+        .ExternalClass * { line-height: 100%; }
+        
+        /* Основные медиа-запросы для мобильных */
+        @media only screen and (max-width: 620px) {
+            table[class="container"] {
+                width: 100% !important;
+            }
+            td[class="mobile-padding"] {
+                padding-left: 20px !important;
+                padding-right: 20px !important;
+            }
+            td[class="mobile-center"] {
+                text-align: center !important;
+            }
+            .mobile-stack {
+                display: block !important;
+                width: 100% !important;
+            }
+            .mobile-hide {
+                display: none !important;
+            }
+            .mobile-text {
+                font-size: 16px !important;
+                line-height: 24px !important;
+            }
+            .mobile-heading {
+                font-size: 24px !important;
+                line-height: 32px !important;
+            }
+            .button-container {
+                padding: 10px 0 !important;
+            }
+            .button-link {
+                padding: 12px 20px !important;
+                font-size: 16px !important;
+            }
+        }
+        
+        @media only screen and (max-width: 480px) {
+            .mobile-text {
+                font-size: 14px !important;
+            }
+        }
+        
+        /* Для Outlook */
+        .outlook-group-fix { width: 100%; }
+        span.ios-footer { color: transparent; }
+    </style>
+</head>
+<body style="margin:0; padding:0; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; background-color:#f8fafc;">
+    
+    <!-- Фон для Outlook -->
+    <!--[if mso]>
+    <table role="presentation" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#f8fafc;">
+    <tr>
+    <td>
+    <![endif]-->
+    
+    <!-- ЦЕНТРИРУЮЩАЯ ОБЕРТКА -->
+    <center>
+        <!-- ГЛАВНЫЙ КОНТЕЙНЕР -->
+        <table class="container" role="presentation" align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="border-collapse: collapse; max-width: 600px; width: 100%; background-color: #ffffff; margin: 0 auto;">
+            
+            <!-- ВЕРХНИЙ ПРОМО-БЛОК -->
+            <tr>
+                <td align="center" style="padding: 30px 0; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                            <td class="mobile-padding" align="center" style="padding: 0 40px; color: #ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 28px; font-weight: bold; line-height: 1.2;">
+                                🚀 Превращаю идеи в код
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="mobile-padding" align="center" style="padding: 15px 40px 0; color: rgba(255,255,255,0.9); font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 1.4;">
+                                Создаю современные, быстрые и адаптивные веб-интерфейсы
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            
+            <!-- ПРИВЕТСТВИЕ -->
+            <tr>
+                <td class="mobile-padding" style="padding: 40px 40px 20px; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 18px; line-height: 1.6; color: #333;">
+                    <p style="margin: 0 0 20px 0;">Здравствуйте!</p>
+                    <p style="margin: 0;">Меня зовут Алексей, я <strong>Frontend-разработчик</strong> с 5-летним опытом создания пользовательских интерфейсов. Я помогаю бизнесу увеличивать конверсию через безупречный UX и современные технологии.</p>
+                </td>
+            </tr>
+            
+            <!-- ОСНОВНОЕ ПРЕДЛОЖЕНИЕ -->
+            <tr>
+                <td class="mobile-padding" style="padding: 0 40px 30px;">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                            <td style="background-color: #f1f5f9; border-left: 4px solid #667eea; padding: 25px;">
+                                <h2 class="mobile-heading" style="font-family: Arial, Helvetica, sans-serif; font-size: 28px; font-weight: bold; color: #2d3748; margin: 0 0 15px 0;">Что я делаю:</h2>
+                                <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tr>
+                                        <td class="mobile-stack" width="20" style="padding-right: 15px; vertical-align: top;">
+                                            <span style="color: #667eea; font-size: 20px;">✓</span>
+                                        </td>
+                                        <td class="mobile-stack" style="padding-bottom: 10px;">
+                                            <span style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #4a5568;"><strong>Верстка</strong> по макетам из Figma/Photoshop</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="mobile-stack" width="20" style="padding-right: 15px; vertical-align: top;">
+                                            <span style="color: #667eea; font-size: 20px;">✓</span>
+                                        </td>
+                                        <td class="mobile-stack" style="padding-bottom: 10px;">
+                                            <span style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #4a5568;"><strong>React/Vue.js</strong> разработка SPA-приложений</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="mobile-stack" width="20" style="padding-right: 15px; vertical-align: top;">
+                                            <span style="color: #667eea; font-size: 20px;">✓</span>
+                                        </td>
+                                        <td class="mobile-stack" style="padding-bottom: 10px;">
+                                            <span style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #4a5568;"><strong>Адаптивность</strong> под все устройства</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="mobile-stack" width="20" style="padding-right: 15px; vertical-align: top;">
+                                            <span style="color: #667eea; font-size: 20px;">✓</span>
+                                        </td>
+                                        <td class="mobile-stack">
+                                            <span style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #4a5568;"><strong>Оптимизация</strong> скорости загрузки</span>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            
+            <!-- ТЕХНОЛОГИИ -->
+            <tr>
+                <td class="mobile-padding" style="padding: 0 40px 30px;">
+                    <h3 class="mobile-heading" style="font-family: Arial, Helvetica, sans-serif; font-size: 22px; color: #2d3748; margin: 0 0 15px 0;">Мой стек технологий:</h3>
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                            <td class="mobile-stack mobile-center" align="center" style="padding: 8px 5px; width: 20%;">
+                                <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; background-color: #e2e8f0; padding: 5px 10px; border-radius: 3px; color: #4a5568;">HTML5</span>
+                            </td>
+                            <td class="mobile-stack mobile-center" align="center" style="padding: 8px 5px; width: 20%;">
+                                <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; background-color: #e2e8f0; padding: 5px 10px; border-radius: 3px; color: #4a5568;">CSS3</span>
+                            </td>
+                            <td class="mobile-stack mobile-center" align="center" style="padding: 8px 5px; width: 20%;">
+                                <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; background-color: #e2e8f0; padding: 5px 10px; border-radius: 3px; color: #4a5568;">JavaScript</span>
+                            </td>
+                            <td class="mobile-stack mobile-center" align="center" style="padding: 8px 5px; width: 20%;">
+                                <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; background-color: #e2e8f0; padding: 5px 10px; border-radius: 3px; color: #4a5568;">React</span>
+                            </td>
+                            <td class="mobile-stack mobile-center" align="center" style="padding: 8px 5px; width: 20%;">
+                                <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; background-color: #e2e8f0; padding: 5px 10px; border-radius: 3px; color: #4a5568;">Vue.js</span>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            
+            <!-- КЕЙСЫ/ПОРТФОЛИО -->
+            <tr>
+                <td class="mobile-padding" style="padding: 0 40px 40px;">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="border: 1px solid #e2e8f0; border-radius: 8px; overflow: hidden;">
+                        <tr>
+                            <td style="background-color: #f7fafc; padding: 20px; border-bottom: 1px solid #e2e8f0;">
+                                <h3 class="mobile-heading" style="font-family: Arial, Helvetica, sans-serif; font-size: 22px; color: #2d3748; margin: 0;">Примеры работ:</h3>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0;">
+                                <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tr>
+                                        <td class="mobile-stack" style="padding: 20px; border-right: 1px solid #e2e8f0; width: 50%;">
+                                            <h4 style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; color: #4a5568; margin: 0 0 10px 0;">Интернет-магазин</h4>
+                                            <p style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #718096; margin: 0; line-height: 1.4;">React + Redux, адаптивная верстка, оптимизация загрузки</p>
+                                        </td>
+                                        <td class="mobile-stack" style="padding: 20px; width: 50%;">
+                                            <h4 style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; color: #4a5568; margin: 0 0 10px 0;">Корпоративный портал</h4>
+                                            <p style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #718096; margin: 0; line-height: 1.4;">Vue.js + TypeScript, сложные интерактивные элементы</p>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            
+            <!-- КНОПКА ДЕЙСТВИЯ -->
+            <tr>
+                <td class="mobile-padding" align="center" style="padding: 0 40px 40px;">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="button-container">
+                        <tr>
+                            <td align="center" style="background-color: #667eea; border-radius: 8px;">
+                                <a href="https://portfolio-example.com/contact" 
+                                   target="_blank"
+                                   style="display: inline-block; padding: 16px 40px; font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold; color: #ffffff; text-decoration: none; border-radius: 8px; text-align: center;"
+                                   class="button-link">
+                                    Обсудить проект
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            
+            <!-- ПРАЙС (УПРОЩЕННЫЙ) -->
+            <tr>
+                <td class="mobile-padding" style="padding: 0 40px 30px;">
+                    <h3 class="mobile-heading" style="font-family: Arial, Helvetica, sans-serif; font-size: 22px; color: #2d3748; margin: 0 0 20px 0; text-align: center;">Варианты сотрудничества:</h3>
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                            <td class="mobile-stack" style="padding: 0 10px 20px; width: 33%;">
+                                <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="border: 2px solid #e2e8f0; border-radius: 8px; padding: 20px; text-align: center;">
+                                    <tr>
+                                        <td style="padding-bottom: 15px;">
+                                            <span style="font-family: Arial, Helvetica, sans-serif; font-size: 20px; color: #667eea; font-weight: bold;">Базовый</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding-bottom: 15px;">
+                                            <span style="font-family: Arial, Helvetica, sans-serif; font-size: 32px; color: #2d3748; font-weight: bold;">от 25к ₽</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #718096;">Верстка лендинга</span>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td class="mobile-stack" style="padding: 0 10px 20px; width: 33%;">
+                                <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="border: 2px solid #667eea; border-radius: 8px; padding: 20px; text-align: center; background-color: #f7fafc;">
+                                    <tr>
+                                        <td style="padding-bottom: 15px;">
+                                            <span style="font-family: Arial, Helvetica, sans-serif; font-size: 20px; color: #667eea; font-weight: bold;">Стандарт</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding-bottom: 15px;">
+                                            <span style="font-family: Arial, Helvetica, sans-serif; font-size: 32px; color: #2d3748; font-weight: bold;">от 50к ₽</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #718096;">Верстка + базовая JS-логика</span>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td class="mobile-stack" style="padding: 0 10px 20px; width: 33%;">
+                                <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="border: 2px solid #e2e8f0; border-radius: 8px; padding: 20px; text-align: center;">
+                                    <tr>
+                                        <td style="padding-bottom: 15px;">
+                                            <span style="font-family: Arial, Helvetica, sans-serif; font-size: 20px; color: #667eea; font-weight: bold;">Премиум</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding-bottom: 15px;">
+                                            <span style="font-family: Arial, Helvetica, sans-serif; font-size: 32px; color: #2d3748; font-weight: bold;">от 100к ₽</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #718096;">Полный SPA на React/Vue</span>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            
+            <!-- КОНТАКТЫ И ФУТЕР -->
+            <tr>
+                <td style="background-color: #2d3748; padding: 40px 40px 30px;">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                            <td class="mobile-center" align="center" style="padding-bottom: 20px;">
+                                <span style="font-family: Arial, Helvetica, sans-serif; font-size: 20px; color: #ffffff; font-weight: bold;">Контакты:</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="mobile-center" align="center" style="padding-bottom: 15px;">
+                                <a href="mailto:hello@frontend-dev.ru" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #a0aec0; text-decoration: none;">
+                                    📧 hello@frontend-dev.ru
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="mobile-center" align="center" style="padding-bottom: 15px;">
+                                <a href="tel:+79991234567" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #a0aec0; text-decoration: none;">
+                                    📞 +7 (999) 123-45-67
+                                </a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="mobile-center" align="center">
+                                <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                                    <tr>
+                                        <td style="padding: 0 10px;">
+                                            <a href="https://github.com/yourprofile" style="color: #a0aec0; text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 14px;">GitHub</a>
+                                        </td>
+                                        <td style="padding: 0 10px;">
+                                            <a href="https://t.me/yourprofile" style="color: #a0aec0; text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 14px;">Telegram</a>
+                                        </td>
+                                        <td style="padding: 0 10px;">
+                                            <a href="https://linkedin.com/in/yourprofile" style="color: #a0aec0; text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 14px;">LinkedIn</a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            
+            <!-- КОПИРАЙТ -->
+            <tr>
+                <td style="background-color: #1a202c; padding: 20px 40px;">
+                    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                            <td class="mobile-center" align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #718096; line-height: 1.4;">
+                                <p style="margin: 0 0 10px 0;">© 2024 Алексей Петров. Frontend-разработчик</p>
+                                <p style="margin: 0;">Вы получили это письмо, потому что оставляли заявку на моем сайте. <a href="https://frontend-dev.ru/unsubscribe" style="color: #a0aec0; text-decoration: underline;">Отписаться</a></p>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            
+        </table>
+        
+        <!-- ПРОБЕЛ ДЛЯ МОБИЛЬНЫХ -->
+        <table role="presentation" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
+            <tr>
+                <td style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; color: #999999; padding: 20px 40px;">
+                    <span class="ios-footer">&nbsp;</span>
+                </td>
+            </tr>
+        </table>
+        
+    </center>
+    
+    <!--[if mso]>
+    </td>
+    </tr>
+    </table>
+    <![endif]-->
+    
+</body>
+</html>
